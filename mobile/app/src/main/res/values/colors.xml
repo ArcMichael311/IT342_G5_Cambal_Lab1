@@ -7,4 +7,27 @@
     <color name="teal_700">#FF018786</color>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+    
+    <!-- App Theme Colors -->
+    <color name="primary">#4a0000</color>
+    <color name="primary_dark">#6b0000</color>
+    <color name="primary_hover">#6b0000</color>
+    <color name="background_light">#F9F9F9</color>
+    
+    <!-- Text Colors -->
+    <color name="label_text">#555555</color>
+    <color name="hint_text">#AAAAAA</color>
+    <color name="secondary_text">#666666</color>
+    <color name="stat_label">#555555</color>
+    
+    <!-- Error Colors -->
+    <color name="error_bg">#FFEEEE</color>
+    <color name="error_text">#CC3333</color>
+    <color name="error_border">#FFCCCC</color>
+    
+    <!-- Input Colors -->
+    <color name="input_border">#DDDDDD</color>
+    
+    <!-- Button Colors -->
+    <color name="button_disabled">#99666666</color>
 </resources>
